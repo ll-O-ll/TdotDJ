@@ -2,8 +2,6 @@
 
 A simple discord bot that helps you manage your server by providing useful commands like playing music or deleting text messages.
 
-You can find the tutorial about building a discord music bot [here](https://gabrieltanner.org/blog/dicord-music-bot). 
-
 ## Table of content
 
 * [Requirements](#requirements)
