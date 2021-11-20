@@ -21,19 +21,6 @@ A simple discord bot that helps you manage your server by providing useful comma
 
 First, make sure you have all the required tools installed on your local machine then continue with these steps.
 
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/TannerGabriel/discord-bot.git
-
-# Enter into the directory
-cd discord-bot/
-
-# Install the dependencies
-npm install
-```
-
 ## Required permissions
 
 **Important:** Make sure that your bot has the `applications.commands` application scope enabled, which can be found under the `OAuth2` tap on the [developer portal](https://discord.com/developers/applications/)
