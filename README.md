@@ -23,7 +23,7 @@ First, make sure you have all the required tools installed on your local machine
 
 ## Required permissions
 
-**Important:** Make sure that your bot has the `applications.commands` application scope enabled, which can be found under the `OAuth2` tap on the [developer portal](https://discord.com/developers/applications/)
+**Important:** Make sure that your bot has the `applications.commands` application scope enabled, which can be found under the `OAuth2` tab on the [developer portal](https://discord.com/developers/applications/)
 
 ### Configuration
 
